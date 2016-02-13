@@ -18,6 +18,12 @@ var mysql_host = 'localhost';
 var mysql_database = 'expressfirebase';
 ```
 
+jangan lupa juga ganti instance firebase jadi punya sendiri
+
+```
+var ref = new Firebase("https://express-crud.firebaseio.com/");
+```
+
 untuk menjalankan 
 
 ```
