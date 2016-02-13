@@ -1,0 +1,32 @@
+{
+  "name": "express-firebase-backup",
+  "version": "1.0.0",
+  "description": "real time backup of firebase to mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnylazuardi/express-firebase-backup.git"
+  },
+  "keywords": [
+    "firebase",
+    "express",
+    "mysql"
+  ],
+  "author": "sonnylazuardi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonnylazuardi/express-firebase-backup/issues"
+  },
+  "homepage": "https://github.com/sonnylazuardi/express-firebase-backup#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "firebase": "^2.4.0",
+    "mysql": "^2.10.2",
+    "orm": "^2.1.30",
+    "q-orm": "0.0.3"
+  }
+}
