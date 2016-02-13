@@ -34,3 +34,9 @@ untuk menjalankan
 ```
 npm start
 ```
+
+untuk melihat posts yang disimpan di mysql buka 
+
+```
+http://localhost:8000/posts
+```
