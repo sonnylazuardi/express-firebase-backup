@@ -24,6 +24,11 @@ jangan lupa juga ganti instance firebase jadi punya sendiri
 var ref = new Firebase("https://express-crud.firebaseio.com/");
 ```
 
+strukturnya kira2 seperti ini
+
+![ss](https://lh3.googleusercontent.com/-j1GAqBXe9Ss/Vr76LOjIozI/AAAAAAAAG6Q/rfiHFPV8ce8/s0/Screen+Shot+2016-02-13+at+4.12.33+PM.png "Screen Shot 2016-02-13 at 4.12.33 PM.png")
+
+
 untuk menjalankan 
 
 ```
